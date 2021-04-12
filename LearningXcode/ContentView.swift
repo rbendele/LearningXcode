@@ -3,6 +3,7 @@
 //  LearningXcode
 //
 //  Created by Ron Bendele on 4/1/21.
+//  Added this project to Git on 4/12/21.
 //
 
 import SwiftUI
